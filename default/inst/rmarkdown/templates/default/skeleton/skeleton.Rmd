@@ -1,0 +1,15 @@
+---
+title: "PX Anareg Praktikum Modul"
+author: "Nur Shifa Dani"
+date: "The Date"
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+  pdf_document: default
+---
+
+# **INSTRUCTIONS**
+```{r}
+
+```
